@@ -1,4 +1,4 @@
-# ToDoList  -
+# ToDoList
 # General Introduction
 It includes all basic functions of a reminder app. In this app, it has three pages, one for adding todo list, one for showing tasks with alarm clock (specifc time), and one for checking finished tasks.
 
