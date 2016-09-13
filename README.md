@@ -7,3 +7,11 @@ And all the todo with an clocksetting will also be shown under the "reminding" p
 
 Other functions:
 You can also rank the priority of them in any page. 
+
+#Pods used in this project
+I imported several pretty popular pods in this project and found them really convenient.
+'FMDB'
+'MBProgressHUD'
+'YPTabBarController'
+'Masonry'
+'SVProgressHUD'
