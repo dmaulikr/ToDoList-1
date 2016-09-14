@@ -9,14 +9,16 @@ Once you finish a task, you can mark it as 'done'. And you can check it under th
 
 Other functions:
 You can also rank the priority of them in any page. 
+And I am still working on it and trying to add a weather broadcast function for it.
 
 #Pods used in this project
 I imported several pretty popular pods in this project and found them really convenient.
 'FMDB'
+'AFNetworking'
 'MBProgressHUD'
 'YPTabBarController'
 'Masonry'
-'SVProgressHUD'
+
 
 Yuan Wu
 2016.09.10
